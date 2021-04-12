@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shakibmazhar
-- 👀 I’m interested in ... Web development and mobile application development
-- 🌱 I’m currently learning ... a ton of stuff including React, Node etc
+- Hi, I’m @shakibmazhar (S.M Mazharul Islam)
+- Contact me via email - shakibmazhar77@gmail.com
 
 
 <!---
